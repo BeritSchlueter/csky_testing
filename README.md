@@ -1,0 +1,3 @@
+- QUESO_csky_data.ipynb: Creating signal file, fake data and fake GRL.
+- QUESO_csky_BGtrials.py: Python script to run the BG trials for different approaches
+- QUESO_BG_SIG.ipynb: Plotting the BG trials from QUESO_csky_BGtrials.py and calculating the sensitivity. Also I tried to look at the PDFs. 
